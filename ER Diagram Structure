@@ -1,0 +1,17 @@
+        Department
+          ----------------
+          Dept_ID (PK)
+          Dept_Name
+          Location
+                |
+                |
+                |
+          Employee
+          ----------------
+          Emp_ID (PK)
+          Emp_Name
+          Age
+          Gender
+          City
+          Salary
+          Dept_ID (FK)
